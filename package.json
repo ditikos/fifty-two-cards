@@ -1,0 +1,14 @@
+{
+  "name": "fifty-two",
+  "version": "1.0.0",
+  "description": "Fifty Two Cards of typescript",
+  "main": "index.js",
+  "scripts": {  
+    "start": "node index.js"
+  },
+  "author": "Panagiotis Chalatsakos <chibioni@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript-collections": "^1.1.2"
+  }
+}
