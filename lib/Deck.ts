@@ -10,7 +10,7 @@ export class Deck {
     }
 
     // Suffle cards using Fisher-Yates algorithm
-    // Wikipedia implementation -- first element is always Ace? :( 
+    // Wikipedia implementation (python) -- first element is always Ace? :( 
     shuffle() {
         var i = this.cards.length;
         while (i > 1) {
